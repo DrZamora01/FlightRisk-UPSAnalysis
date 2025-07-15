@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# System
+.DS_Store
+
+# Data
+*.xlsx
+*.zip
+
+# Models
+*.h5
+*.pkl
+*.joblib
+
+# IDE files
+.vscode/
+.env
